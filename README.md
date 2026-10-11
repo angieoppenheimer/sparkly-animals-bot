@@ -40,7 +40,7 @@ The goal of this project is to help animals find a home by increasing the visibi
 
 All collected adoption posts are published here:
 
-➡️ **https://t.me/globalanimaladoptions**
+➡️ **https://t.me/sparklyanimals**
 
 Feel free to follow, share, and help animals find a loving home ❤️
 
@@ -148,7 +148,7 @@ The bot automatically filters non-adoption content.
 To request adding your shelter, please:
 - Open a **GitHub Issue** in this repository  
   **or**
-- Contact the project owner via email 📧 **angieoppenheimer@protonmail.com**
+- Contact the project owner via email 📧 **sparklyanimals@proton.me**
 
 Include:
 - Shelter name
