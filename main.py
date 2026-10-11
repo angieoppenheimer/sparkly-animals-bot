@@ -18,7 +18,7 @@ from telegram import Bot
 # CONFIG
 # ======================
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL = "@globalanimaladoptions"  # username del CANALE
+CHANNEL = "@sparklyanimalsbot"  # username del CANALE
 
 # Filtri opzionali (lascia vuoti per pubblicare tutto)
 ALLOWED_SPECIES = set()     # es: {"dog", "cat"}
