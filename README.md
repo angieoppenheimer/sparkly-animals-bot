@@ -4,7 +4,7 @@ An automated bot that collects **animal adoption listings from around the world*
 
 The goal of this project is to help animals find a home by increasing the visibility of adoption posts from shelters, rescues, and organizations internationally.
 
-👉 **Telegram Channel:** https://t.me/sparklyanimalsbot
+👉 **Telegram Channel:** https://t.me/sparklyanimals
 
 ---
 
